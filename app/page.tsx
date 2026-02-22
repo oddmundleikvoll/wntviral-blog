@@ -22,6 +22,12 @@ export default function Home() {
               >
                 Get Free Make.com Guide
               </Link>
+              <Link 
+                href="/blog"
+                className="text-sm font-semibold leading-6 text-slate-300 hover:text-white transition-colors"
+              >
+                Read Blog →
+              </Link>
               <a 
                 href="https://www.make.com/en/register?pc=veravibe"
                 target="_blank"
