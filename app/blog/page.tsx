@@ -2,25 +2,25 @@ import Link from 'next/link'
 
 const posts = [
   {
-    id: '5-automations-guide',
-    title: '5 Automations That Save Small Businesses 10+ Hours/Week',
-    excerpt: 'A complete guide to setting up CRM, email automation, and smart dashboards without hiring a developer.',
-    date: '2026-02-21',
-    category: 'Guide'
-  },
-  {
-    id: 'getting-started-hubspot',
-    title: 'Getting Started with HubSpot CRM',
-    excerpt: 'Step-by-step setup for small businesses who want better lead tracking.',
-    date: '2026-02-20',
+    id: '5-make-automations',
+    title: '5 Make.com Automations Every Small Business Needs',
+    excerpt: 'Save 10+ hours per week with these essential Make.com automations for lead capture, invoicing, social media, and more.',
+    date: '2026-02-22',
     category: 'Tutorial'
   },
   {
     id: 'make-vs-zapier',
-    title: 'Make.com vs Zapier: Which Automation Tool to Choose?',
-    excerpt: 'An honest comparison of the two most popular automation platforms for small businesses.',
-    date: '2026-02-19',
+    title: 'Make.com vs Zapier: Why We Switched',
+    excerpt: 'Why we switched from Zapier to Make.com and saved $200/month while getting more powerful automations.',
+    date: '2026-02-22',
     category: 'Comparison'
+  },
+  {
+    id: 'saved-10-hours-week',
+    title: 'How I Saved 10 Hours/Week with Make.com (Real Numbers)',
+    excerpt: 'A real breakdown of how automation saved me 650 hours per year — with actual workflows you can copy.',
+    date: '2026-02-22',
+    category: 'Case Study'
   }
 ]
 
